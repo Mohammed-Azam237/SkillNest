@@ -250,7 +250,7 @@ The platform uses Razorpay for secure payment processing:
 
 ## 📱 Media Management
 
-StudyNotion uses Cloudinary, a cloud-based media management service, to store and manage all media content, including images, videos, and documents.
+SkillNest uses Cloudinary, a cloud-based media management service, to store and manage all media content, including images, videos, and documents.
 
 Features include:
 - Automatic video optimization
@@ -299,7 +299,7 @@ Use tools like Postman or Thunder Client to test the APIs:
 
 - Thanks to all contributors and the open-source community
 - Inspiration from leading EdTech platforms
-- Special thanks to the MERN stack community
+- Special thanks to the MERN stack community and Love Babbar Sir
 
 ---
 
