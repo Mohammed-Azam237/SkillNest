@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import ReactStars from "react-stars"
-import { apiConnector } from '../../services/apiConnector'
+import { apiConnector } from '../../services/apiconnector'
 import { ratingsEndpoints } from '../../services/apis'
 import { FaStar } from "react-icons/fa"
 
