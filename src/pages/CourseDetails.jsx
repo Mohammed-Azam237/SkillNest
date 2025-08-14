@@ -11,7 +11,7 @@ import { buyCourse } from '../services/operations/studentFeaturesAPI';
 import { fetchCourseDetails } from '../services/operations/courseDetailsAPI';
 import { addToCart } from '../slices/cartSlice';
 import { ACCOUNT_TYPE } from '../utils/constants';
-import RatingStars from '../Components/common/RatingStars';
+import RatingStars from '../components/common/RatingStars';
 import GetAvgRating from '../utils/avgRating';
 
 const CourseDetails = () => {
