@@ -4,7 +4,7 @@ import { setLoading, setToken } from "../../slices/authSlice"
 import { resetCart } from "../../slices/cartSlice"
 import { setUser } from "../../slices/profileSlice"
 import { endpoints } from "../apis"
-import {apiConnector} from "../apiConnector"
+import {apiConnector} from "../apiconnector"
 import {setProgress} from "../../slices/loadingBarSlice"
 
 const {
