@@ -8,8 +8,8 @@ import {
   setTotalNoOfLectures,
   setCourseProgressId,
 } from '../slices/viewCourseSlice';
-import ReviewModal from '../Components/core/ViewCourse/ReviewModal';
-import VideoDetailsSidebar from '../Components/core/ViewCourse/VideoDetailsSidebar';
+import ReviewModal from '../components/core/ViewCourse/ReviewModal';
+import VideoDetailsSidebar from '../components/core/ViewCourse/VideoDetailsSidebar';
 import { getFullDetailsOfCourse } from '../services/operations/courseDetailsAPI';
 
 const ViewCourse = () => {
