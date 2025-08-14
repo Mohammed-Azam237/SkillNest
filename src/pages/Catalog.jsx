@@ -3,7 +3,7 @@ import Footer from '../components/common/Footer'
 import { useParams } from 'react-router-dom'
 import { useState } from 'react';
 import { useEffect } from 'react';
-import { apiConnector } from '../services/apiConnector';
+import { apiConnector } from '../services/apiconnector';
 import { categories } from '../services/apis';
 import { getCatalogaPageData } from '../services/operations/pageAndComponentData';
 import CourseCard from '../components/core/Catalog/CourseCard';
