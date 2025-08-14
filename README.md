@@ -1,4 +1,4 @@
-Learnify 📚
+SkillNest 📚
 An educational platform designed to enhance online learning experiences, enabling users to explore, manage, and interact with courses efficiently.
 
 Table of Contents
